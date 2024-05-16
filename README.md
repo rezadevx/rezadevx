@@ -9,9 +9,5 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴀʟᴀᴍ ᴋᴇɴᴀʟ
 <p>
- 
-    <a href="https://t.me/rezadangers" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://instagram.com/reza_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
-    <a
