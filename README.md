@@ -30,9 +30,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Pasal 72 UU ITE tentang Pelanggaran Hak Cipta</h1>
-        
-        <div class="pasal">
+        <h1>Pasal 72 UU ITE tentang Pelanggaran Hak Cipta</h1>        
+<div class="pasal">
             <strong>Pasal 72:</strong>
             <p>(1) Barangsiapa dengan sengaja dan tanpa hak memperbanyak, menggunakan, atau mendistribusikan suatu ciptaan atau produk hak terkait tanpa izin sebagaimana dimaksud dalam Undang-Undang ini, dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/atau denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).</p>
             <p>(2) Barangsiapa dengan sengaja dan tanpa hak melakukan perbuatan sebagaimana dimaksud pada ayat (1) dalam skala komersial, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).</p>
