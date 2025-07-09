@@ -4,16 +4,11 @@
 
 ---
 
-## 🧠 Tentang Saya
-
-- 🛠 Full-stack Developer
 - 🤖 Telegram Bot Engineer
 - 🚀 Automation Enthusiast
-- 🧩 Suka eksperimen dengan sistem gelap
 
 ---
 
-## 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezadevx&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -43,7 +38,7 @@
 
 ## 📬 Kontak Saya
 
-- Telegram: [@rezadevX](https://t.me/rezadevX)
+- Telegram: [@rezadevX](https://t.me/thisisveverybody)
 - GitHub: [github.com/rezadevx](https://github.com/rezadevx)
 
 ---
