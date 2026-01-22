@@ -1,8 +1,3 @@
-<!-- 🔥 3D CONTRIBUTION MASTERPIECE 🔥 -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-</div>
-
 <!-- STATS MODERN -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rezadevx&color=00D4FF&style=flat-square" alt="Profile Views" />
