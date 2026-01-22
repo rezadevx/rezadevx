@@ -1,16 +1,18 @@
-<!-- 🔥 ULTIMATE STATS COMBO 🔥 -->
+<!-- 🔥 NEXT-GEN STATS SYSTEM 🔥 -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rezadevx&theme=tokyonight&no-bg=true&row=1&margin-w=15&margin-h=15" height="130"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadevx&theme=tokyonight&hide_border=true" height="130"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadevx&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="130"/>
+  <img src="https://komarev.com/ghpvc/?username=rezadevx&color=deepskyblue&style=for-the-badge" height="130"/>
+  <img src="https://img.shields.io/github/profile-views-count/rezadevx?label=Profile%20Views&color=tokyonight-blue&style=for-the-badge" height="130"/>
+  <img src="https://img.shields.io/badge/Dynamic-Python-brightgreen?logo=python&logoColor=white&label=Top%20Lang&message=99%25&style=for-the-badge" height="130"/>
 </p>
 
-<!-- 📊 STATS + PINNED REPO -->
+<!-- 🚀 ACTIVITY + SKILLS MATRIX -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezadevx&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rezadevx&repo=your-main-repo&theme=tokyonight" height="130"/>
+  <img src="https://img.shields.io/github/stars/rezadevx?logo=github&label=Stars&color=yellow&style=for-the-badge" height="130"/>
+  <img src="https://img.shields.io/github/forks/rezadevx?logo=github&label=Forks&color=orange&style=for-the-badge" height="130"/>
+  <img src="https://img.shields.io/github/commit-activity/w/rezadevx?logo=git&label=Commits&color=purple&style=for-the-badge" height="130"/>
+</p>
+
+<!-- 💎 TECH STACK ANIMATED -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,lua,html,css,js&perline=15" height="130"/>
 </p>
