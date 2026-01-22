@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Opsi 1: Animated Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20Name&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=REZA%20DEVX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
   
   <!-- 3D Contribution Graph -->
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution"/>
