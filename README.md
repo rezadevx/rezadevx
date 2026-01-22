@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadevx&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak Stats"/>
+  <a href="https://skyline.github.com/rezadevx/2024">
+    <img src="https://github.com/rezadevx/rezadevx/blob/main/github-skyline.png" width="100%" alt="GitHub Skyline 3D"/>
+  </a>
 </div>
 
 <!-- STATS MODERN -->
